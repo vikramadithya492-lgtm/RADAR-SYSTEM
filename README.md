@@ -1,6 +1,6 @@
 
 
-# Radar System-Using-Ultrasonic-Sensor
+# Radar System Using Ultrasonic-Sensor
 
 ## Project Overview
 
